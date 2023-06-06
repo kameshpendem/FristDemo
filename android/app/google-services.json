@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "446026613801",
+    "firebase_url": "https://healpha-person.firebaseio.com",
+    "project_id": "healpha-person",
+    "storage_bucket": "healpha-person.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446026613801:android:de2b03da3a9258860c8838",
+        "android_client_info": {
+          "package_name": "com.healpha_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446026613801-elk3ee24m6k26qc2asd9lutigdhn5atl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healpha_doctor",
+            "certificate_hash": "d34246137e1087911633fc3f65a43ef0e2095b72"
+          }
+        },
+        {
+          "client_id": "446026613801-l3ci62ki0b8pfmh0detkp9rueh3c0mbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healpha_doctor",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "446026613801-0fsu7ofqq1kdhbafj4ph8jgfoifhk89q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL6tSmdeWUzBY5cyG_ATnNaww5nHMP2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446026613801-0fsu7ofqq1kdhbafj4ph8jgfoifhk89q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446026613801-num78el8c2075um5grai3gl0h9ct4q99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.concent.doctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446026613801:android:3d97a39d2c0690170c8838",
+        "android_client_info": {
+          "package_name": "com.healphauser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446026613801-0fsu7ofqq1kdhbafj4ph8jgfoifhk89q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL6tSmdeWUzBY5cyG_ATnNaww5nHMP2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446026613801-0fsu7ofqq1kdhbafj4ph8jgfoifhk89q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446026613801-num78el8c2075um5grai3gl0h9ct4q99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.concent.doctor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446026613801:android:cca58c481b776b610c8838",
+        "android_client_info": {
+          "package_name": "com.in.concent.virtual_clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446026613801-0fsu7ofqq1kdhbafj4ph8jgfoifhk89q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFL6tSmdeWUzBY5cyG_ATnNaww5nHMP2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446026613801-0fsu7ofqq1kdhbafj4ph8jgfoifhk89q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "446026613801-num78el8c2075um5grai3gl0h9ct4q99.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.concent.doctor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

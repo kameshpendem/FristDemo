@@ -1,0 +1,112 @@
+[
+    {
+        "id": "heading-1608185039679-preview",
+        "name": "heading-1608185039679-preview",
+        "type": "heading",
+        "label": "Form Header",
+        "className": "",
+        "subHeader": "This is an awesome header",
+        "fieldIndex": 0
+    },
+    {
+        "id": "checkList-1608185073585-preview",
+        "name": "checkList-1608185073585-preview",
+        "type": "checkList",
+        "label": "Have we followed all precautions ?",
+        "className": "",
+        "fieldIndex": 1,
+        "customOption": "Hand Washing<br/>Social Distancing<br/>Mask<br/>>>N95<br/>>>Cloth Mask<br/>Did not step out"
+    },
+    {
+        "id": "simpleQuestion-1608185229428-preview",
+        "name": "simpleQuestion-1608185229428-preview",
+        "type": "simpleQuestion",
+        "label": "Simple Question",
+        "value": "What is your age",
+        "answer": "What is your age",
+        "className": "",
+        "fieldIndex": 2
+    },
+    {
+        "id": "singleChoice-1608185260883-preview",
+        "name": "singleChoice-1608185260883-preview",
+        "type": "singleChoice",
+        "label": "Choose Your Gender",
+        "className": "",
+        "fieldIndex": 3,
+        "isFormValid": true,
+        "customOption": "Male<br/>Female<br/>Third Gender<br/>>> Keep it Secret<br/>>> Keep it blank"
+       
+    },
+    {
+        "id": "multiChoice-1608185323837-preview",
+        "name": "multiChoice-1608185323837-preview",
+        "type": "multiChoice",
+        "label": "What are the COVID protocols in your family",
+        "className": "",
+        "fieldIndex": 4,
+        "formMessage": "Please Select All Options in a checklist",
+        "isFormValid": false,
+        "customOption": "I got infected<br/>Spouse got infected<br/>Parents got infected<br/>>> Father got infected<br/>>> Mother got infected<br/>Kids got infected"
+    },
+    {
+        "id": "ratingScale-1608185582307-preview",
+        "max": 5,
+        "min": 1,
+        "name": "ratingScale-1608185582307-preview",
+        "type": "ratingScale",
+        "label": "How do you like Healpha service",
+        "className": "",
+        "fieldIndex": 5,
+        "yesAdditional": true
+    },
+    {
+        "id": "yesNo-1608185603288-preview",
+        "name": "yesNo-1608185603288-preview",
+        "type": "yesNo",
+        "label": "Will you subscribe for our premium services ?",
+        "className": "",
+        "fieldIndex": 6,
+        "noAdditional": true,
+        "yesAdditional": true
+    },
+    {
+        "id": "notes-1608185624573-preview",
+        "name": "notes-1608185624573-preview",
+        "type": "notes",
+        "label": "Please mention about your family history",
+        "className": "",
+        "fieldIndex": 7
+    },
+    {
+        "id": "table-1608185645879-preview",
+        "cols": 4,
+        "name": "table-1608185645879-preview",
+        "rows": 4,
+        "type": "table",
+        "label": "Please mention the details for your entire family",
+        "header": "Age,Address,BMI,Physical Examination",
+        "className": "",
+        "fieldIndex": 8
+    },
+    {
+        "id": "yesNo-1608185721537-preview",
+        "name": "yesNo-1608185721537-preview",
+        "type": "yesNo",
+        "label": "Was anyone in your family admired to ICU ?",
+        "className": "",
+        "fieldIndex": 9,
+        "noAdditional": false,
+        "yesAdditional": true
+    },
+    {
+        "id": "ratingScale-1608185750515-preview",
+        "max": 5,
+        "min": 1,
+        "name": "ratingScale-1608185750515-preview",
+        "type": "ratingScale",
+        "label": "How severe was your COVID infection",
+        "className": "",
+        "fieldIndex": 10
+    }
+]

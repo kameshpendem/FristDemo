@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>446026613801-num78el8c2075um5grai3gl0h9ct4q99.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.446026613801-num78el8c2075um5grai3gl0h9ct4q99</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>446026613801-elk3ee24m6k26qc2asd9lutigdhn5atl.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyAutQ3jnnZoTbtL_sTBTmvlX8luA7JNML4</string>
+    <key>GCM_SENDER_ID</key>
+    <string>446026613801</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.concent.doctor</string>
+    <key>PROJECT_ID</key>
+    <string>healpha-person</string>
+    <key>STORAGE_BUCKET</key>
+    <string>healpha-person.appspot.com</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:446026613801:ios:80f75cb1076e79e10c8838</string>
+    <key>DATABASE_URL</key>
+    <string>https://healpha-person.firebaseio.com</string>
+</dict>
+</plist>
